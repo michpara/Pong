@@ -1,4 +1,4 @@
-Pong
+**Pong**
 
 This is a basic implementation of the classic Atari 1971 game, Pong, using Pygame.
 
