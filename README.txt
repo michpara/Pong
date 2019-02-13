@@ -1,4 +1,4 @@
-**Pong**
+Pong
 
 This is a basic implementation of the classic Atari 1971 game, Pong, using Pygame.
 
@@ -12,7 +12,9 @@ The game will start with a start screen. Start the game by clicking enter.
 
 Exit the game by pressing the x key, or by clicking the red x in the left corner of the window.
 
-Player 1 : 
+The game will end with a game over screen, after a player has reached 10 points. Restart the game by clicking enter.
+
+Player 1 :
 UP : w
 DOWN : s
 
