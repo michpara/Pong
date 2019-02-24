@@ -6,7 +6,7 @@ How to play
 
 Make sure pygame is installed on your computer. Fork or clone the repository. Make sure all the files are in the same folder. Open pong.py and run it. 
 
-Controls
+**Controls**
 
 The game will start with a start screen. Start the game by clicking enter.
 
