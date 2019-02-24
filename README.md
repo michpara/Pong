@@ -15,11 +15,15 @@ Exit the game by pressing the x key, or by clicking the red x in the left corner
 The game will end with a game over screen, after a player has reached 10 points. Restart the game by clicking enter.
 
 Player 1 :
+
 UP : w
+
 DOWN : s
 
 Player 2 :
+
 UP : up arrow
+
 DOWN : down arrow
 
 Currently the game can only be played with two people, there is no CPU.
