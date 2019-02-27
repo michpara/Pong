@@ -12,11 +12,15 @@ To install the software, you must have installed Python 3 on your computer. Plea
 
 >https://www.python.org/downloads/
 
-You must also 
+You must also have installed pygame on your computer. To install pygame, please visit:
+
+>https://cs.hofstra.edu/docs/pages/guides/InstallingPygame.html
 
 ### **Installing**
 
-Dowload pong.py onto your computer, open the program and run it.
+Dowload **ALL** the files in this repository and place them in the **SAME FOLDER** on your computer.
+
+Open pong.py and run the program. 
 
 The game should start.
 
