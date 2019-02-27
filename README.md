@@ -2,11 +2,25 @@
 
 This is a basic implementation of the classic Atari 1971 game, Pong, using Pygame.
 
-How to play 
+## **Getting Started**
 
-Make sure pygame is installed on your computer. Fork or clone the repository. Make sure all the files are in the same folder. Open pong.py and run it. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## **Controls**
+### **Prerequisites**
+
+To install the software, you must have installed Python 3 on your computer. Please visit :
+
+>https://www.python.org/downloads/
+
+You must also 
+
+### **Installing**
+
+Dowload pong.py onto your computer, open the program and run it.
+
+The game should start.
+
+### **How to Play**
 
 The game will start with a start screen. Start the game by clicking enter.
 
@@ -27,3 +41,8 @@ UP : up arrow
 DOWN : down arrow
 
 Currently the game can only be played with two people, there is no CPU.
+
+# **Built with**
+
+Python
+Pygame
