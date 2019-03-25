@@ -18,7 +18,7 @@ You must also have installed pygame on your computer. To install pygame, please 
 
 ### **Installing**
 
-Dowload **ALL** the files in this repository and place them in the **SAME FOLDER** on your computer.
+Download **ALL** the files in this repository and place them in the **SAME FOLDER** on your computer.
 
 Open pong.py and run the program. 
 
