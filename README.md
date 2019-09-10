@@ -1,6 +1,6 @@
 # **Pong**
 
-This is a basic implementation of the classic Atari 1971 game, Pong, using Pygame.
+This is a basic implementation of the classic Atari 1971 game Pong.
 
 ## **Getting Started**
 
@@ -18,9 +18,9 @@ You must also have installed pygame on your computer. To install pygame, please 
 
 ### **Installing**
 
-Download **ALL** the files in this repository and place them in the **SAME FOLDER** on your computer.
+Clone this repository onto your computer.
 
-Open pong.py and run the program. 
+Run pong.py
 
 The game should start.
 
