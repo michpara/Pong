@@ -1,6 +1,8 @@
-# **Pong**
+# **Pong** 
 
 This is a basic implementation of the classic Atari 1971 game Pong.
+
+<img src="https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif" width="500">
 
 ## **Getting Started**
 
